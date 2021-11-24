@@ -10,4 +10,3 @@ a partir do código da versão C-v1.0 (2020).
 - Use o script run.sh, que recebe dois argumentos: mult.in e mult.out, para fazer a análise léxica do programa mult.in, e ver a saída em mult.out.
 - Use o script run.sh com os casos de teste em /tests, lembrando sempre que o segundo argumento deve ter o nome do arquivo de entrada com extensão .out.
 
-

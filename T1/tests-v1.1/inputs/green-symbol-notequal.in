@@ -1,0 +1,7 @@
+// testa  != 
+
+if (a != b) 
+return 0;
+
+// fim 
+

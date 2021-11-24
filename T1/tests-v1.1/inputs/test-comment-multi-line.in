@@ -1,0 +1,7 @@
+aaa // /* not visible
+//to the
+//scanner because */ 
+bbb 
+// am i a comment? 
+ccc// me too  **/
+ddd

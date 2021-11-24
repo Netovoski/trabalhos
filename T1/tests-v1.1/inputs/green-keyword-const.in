@@ -1,0 +1,3 @@
+int main(void) {
+ int CONST i = 1000;
+}
