@@ -1,0 +1,7 @@
+void main(void)
+{
+  int a;
+  a = 4 + 5;
+}
+
+// somou & atribuiu

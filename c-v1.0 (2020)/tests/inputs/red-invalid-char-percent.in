@@ -1,0 +1,4 @@
+// testa %
+
+return a % b;
+
